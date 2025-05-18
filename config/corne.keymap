@@ -83,5 +83,10 @@
             if-layers = <1 2>;
             then-layer = <3>;
         };
+
+        layer_3_from2 {
+            if-layers = <2 1>;
+            then-layer = <3>;
+        };
     };
 };
