@@ -31,9 +31,9 @@
 
             bindings =
                 <&kp C &kp A &kp P &kp I &kp T &kp A &kp L &kp N1>
-                , <&macro_press &kp LSHFT>
+                , <&kp CAPSLOCK>
                 , <&kp P>
-                , <&macro_release &kp LSHFT>
+                , <&kp CAPSLOCK>
                 , <&kp A &kp C &kp O>
                 , <&kp N0 &kp N8 &kp N2 &kp N4 &kp N0 &kp N6 &kp N2 &kp N4>;
             
